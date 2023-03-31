@@ -1,6 +1,6 @@
 Name:		texlive-fascicules
 Version:	54080
-Release:	1
+Release:	2
 Summary:	Create mathematical manuals for schools
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fascicules
